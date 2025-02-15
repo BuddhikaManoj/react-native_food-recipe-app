@@ -1,4 +1,5 @@
 🍽️ Food Recipe App
+
 A React Native application that provides a variety of delicious recipes with ingredients, preparation steps, and cooking times.
 
 📸 Screenshots
@@ -12,12 +13,14 @@ A React Native application that provides a variety of delicious recipes with ing
 ✅ Beautiful and user-friendly UI
 
 🛠️ Technologies Used
+
 React Native
 Expo
 React Navigation
 @expo/vector-icons
 
 🚀 Upcoming Features
+
 🔹 Search functionality to find recipes faster
 🔹 Dark mode support
 🔹 More categories and filtering options
