@@ -2,10 +2,8 @@
 
 A React Native application that provides a variety of delicious recipes with ingredients, preparation steps, and cooking times.
 
-📸 Screenshots
-(Include screenshots of your app here)
-
 ✨ Features
+
 ✅ Browse different recipes with images
 ✅ View ingredients and step-by-step cooking instructions
 ✅ Check estimated cooking time, difficulty level, and calorie count
@@ -14,9 +12,9 @@ A React Native application that provides a variety of delicious recipes with ing
 
 🛠️ Technologies Used
 
-React Native
-Expo
-React Navigation
+React Native,
+Expo,
+React Navigation,
 @expo/vector-icons
 
 🚀 Upcoming Features
